@@ -10,7 +10,6 @@
   <br>
   <p>Hi,<br>
   I'm Hugo_lpes<br>
-  Web developer<br>
   full stack developer</p><br>
   <a href ="https://www.python.org/"><img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank"></a>
   <a href="https://validator.w3.org/#validate_by_uri"><img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank"></a>
