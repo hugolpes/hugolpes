@@ -6,7 +6,7 @@
 
 
 <div id="icon_presentation">
-  <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="300"/>
+  <img align="right" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500" />
   <br>
   <p>Hi,<br>
   I'm Hugo_lpes<br>
