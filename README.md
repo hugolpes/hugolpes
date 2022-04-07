@@ -16,7 +16,7 @@
   <a href="https://jigsaw.w3.org/css-validator/"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"></a>
   <a href="https://www.php.net/"><img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" target="_blank"></a>
-  <a href="https://www.gnu.org/home.fr.html"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" target="_blank"></a>
+  <a href="https://www.gnu.org/home.en.html"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" target="_blank"></a>
 </div>
 
 <br>
