@@ -6,7 +6,7 @@
 
 
 <div id="icon_presentation">
-  <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
+  <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="300"/>
   <br>
   <p>Hi,<br>
   I'm Hugo_lpes<br>
