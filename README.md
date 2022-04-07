@@ -13,7 +13,7 @@
   full stack developer</p><br>
   <a href ="https://www.python.org/"><img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank"></a>
   <a href="https://validator.w3.org/#validate_by_uri"><img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank"></a>
-  <a href="https://jigsaw.w3.org/css-validator/"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"></a>
+  <a href="https://jigsaw.w3.org/css-validator/validator.html.en"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"></a>
   <a href="https://www.php.net/"><img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" target="_blank"></a>
   <a href="https://www.gnu.org/home.en.html"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" target="_blank"></a>
