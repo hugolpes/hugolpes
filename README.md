@@ -16,10 +16,10 @@
   <a href="https://jigsaw.w3.org/css-validator/validator.html.en"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"></a>
   <a href="https://www.php.net/"><img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" target="_blank"></a>
-  <a href="https://www.gnu.org/home.en.html"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" target="_blank"></a><br>
+  <a href="https://www.gnu.org/home.en.html"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" target="_blank"></a>
+    <br>
 </div>
 
-<br>
 
 <div id="static">
   <img src="https://camo.githubusercontent.com/c3f5c5fd2d0ac06be342cb737154726913fb9ef2074cec19395f8c7dd006a83f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6f757472756e"/>
